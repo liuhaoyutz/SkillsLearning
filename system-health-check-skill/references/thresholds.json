@@ -1,0 +1,28 @@
+{
+  "cpu": {
+    "usage": {
+      "warning": 80,
+      "critical": 95
+    }
+  },
+  "memory": {
+    "usage": {
+      "warning": 85,
+      "critical": 95
+    }
+  },
+  "disk": {
+    "usage": {
+      "warning": 85,
+      "critical": 95
+    },
+    "inode": {
+      "warning": 85,
+      "critical": 95
+    }
+  },
+  "load_average": {
+    "warning": 4,
+    "critical": 8
+  }
+}

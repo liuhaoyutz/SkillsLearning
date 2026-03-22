@@ -1,0 +1,9 @@
+{
+  "templates": {
+    "cpu_high": "CPU使用率 {value}% 超过阈值 {threshold}%，系统负载过高",
+    "memory_high": "内存使用率 {value}% 超过阈值 {threshold}%，可能存在内存泄漏",
+    "disk_full": "磁盘 {mountpoint} 使用率 {value}% 超过阈值 {threshold}%，需要清理空间",
+    "process_down": "关键进程 {process} 未运行，请检查服务状态",
+    "network_error": "检测到网络错误，接收错误: {errin}，发送错误: {errout}"
+  }
+}
